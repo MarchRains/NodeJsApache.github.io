@@ -1,5 +1,4 @@
-# NodeJsApache.github.io
-用nodeJs初步实现Apache服务器的效果
+# nodeJs初步实现Apache服务器的效果
 
 使用nodeJs初步实现了Apache后台服务器的一些效果
 其中调用了一些nodeJs的模块和逻辑判断来实现诸如:
